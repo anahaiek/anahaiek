@@ -1,4 +1,4 @@
-<h1 align="center">Olá Mundo! :computer: <img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/751ed0b5-27bf-4474-bac0-3086df413109" width=100px /></h1> 
+<h1 align="center">Olá Mundo! :computer: <img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/85b6ec08-ef37-4604-adfb-eea109d2bf11" width=100px /></h1> 
 
 ★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ 
 &nbsp;                                
@@ -11,7 +11,8 @@
  | <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/)</a> | <a align="right">[Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
  | <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/)</a>  |  <a align="right">[Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a> 
 
-
+<h3 align="center">Portifólio</h3>
+Em breve
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
 <b>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
@@ -24,10 +25,15 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
 
 </p>
-<b>
-<b>
-<b>
- <img align="right" src="https://github.com/anahaiek/anahaiek/assets/88678265/e155474d-b6e1-4f84-badf-e10014912407" width=400px />
+&nbsp;                                
+&nbsp;
+&nbsp;                                
+&nbsp;
+<img align="right" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=400px />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anahaiek&show_icons=true&locale=en&layout=compact" alt="anahaiek" width=300px />
+&nbsp;                                
+&nbsp;
+&nbsp;                                
+&nbsp;
 
-
+ <a align="center">[Contato](https://www.linkedin.com/in/anahaiek/)</a> 
