@@ -25,9 +25,17 @@ Em breve
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
 </p>
-<a align="center">[Contato](https://www.linkedin.com/in/anahaiek/)</a> 
+
+* <a align="center">[Contato](https://www.linkedin.com/in/anahaiek/)</a> 
  
-<img align="right" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=200px />
+ &nbsp;
+   
+ &nbsp;
+   
+ &nbsp;
+   
+ &nbsp;
+<img align="center" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=200px />
 
 
  
