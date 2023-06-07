@@ -5,7 +5,7 @@
 
 * <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole) [Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
 * <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/) [Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
-* <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/) [Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a>
+* <a align="left"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/) [Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a>
 * <a align="right"> </a>
 * <a align="right"> </a>
 * <a align="right"> </a>
