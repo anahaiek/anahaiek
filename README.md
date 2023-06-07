@@ -32,10 +32,9 @@ Em breve
    
  &nbsp;
    
- &nbsp;
-   
- &nbsp;
-<img align="center" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=200px />
-
+ 
+ <p>
+<img align="right" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=250px />
+ </p>
 
  
