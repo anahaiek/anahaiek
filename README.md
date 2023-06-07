@@ -6,4 +6,5 @@
 Vamos ser amigos? 
 
 
-![Uploading devwoman_1.gif…]()
+
+![devwoman_1](https://github.com/anahaiek/anahaiek/assets/88678265/9492fb69-68af-41c3-b2b6-45cc857b57f1)
