@@ -1,7 +1,8 @@
 <h1 align="center">Olá Mundo! :computer: <img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/751ed0b5-27bf-4474-bac0-3086df413109" width=100px /></h1> 
-★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ 
-                                
 
+★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ 
+&nbsp;                                
+&nbsp;
 <h4 align="center">Eu sou a Ana Haiek e curso Ciência da Computação </h4>
 <h4 align="center">Adoro tecnologia e minha linguagem de escolha é Javascript</h4>
 <h3 align="center">Projetos</h3>
