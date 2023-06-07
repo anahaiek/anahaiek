@@ -3,7 +3,7 @@
 <h4 align="center">Curso ciência da computação e minha linguagem de escolha é Javascript.</h4>
 <h3 align="center">Projetos</h3>
 
-<a align="center"> [Acerte a Marmota](https://anahaiek.github.io/whackaMole) para acessar o jogo Whack a Mole. </a>
+* <a align="center"> [Acerte a Marmota](https://anahaiek.github.io/whackaMole) para acessar o jogo Whack a Mole. </a>
 
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
 <b>
