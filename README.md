@@ -2,7 +2,7 @@
 <h3 align="center"> Eu sou a Ana Haiek </h3>
 <h4 align="center">Curso ciência da computação e minha linguagem de escolha é Javascript.</h4>
 <h3 align="center">Projetos</h3>
-[Acerte a Marmota](https://anahaiek.github.io/whackaMole)
+Acerte a Marmota[Whack a mole](https://anahaiek.github.io/whackaMole)
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
 <b>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
