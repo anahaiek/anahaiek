@@ -1,8 +1,9 @@
 <h1 align="center">Olá Mundo! :computer: <img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/85b6ec08-ef37-4604-adfb-eea109d2bf11" width=100px /></h1> 
 
 ★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ 
-&nbsp;                                
-&nbsp;
+
+
+
 <h4 align="center">Eu sou a Ana Haiek e curso Ciência da Computação </h4>
 <h4 align="center">Adoro tecnologia e minha linguagem de escolha é Javascript</h4>
 <h3 align="center">Projetos</h3>
@@ -23,17 +24,10 @@ Em breve
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-
 </p>
-&nbsp;                                
-&nbsp;
-&nbsp;                                
-&nbsp;
-<img align="right" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=400px />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anahaiek&show_icons=true&locale=en&layout=compact" alt="anahaiek" width=300px />
-&nbsp;                                
-&nbsp;
-&nbsp;                                
-&nbsp;
+<a align="center">[Contato](https://www.linkedin.com/in/anahaiek/)</a> 
+ 
+<img align="right" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=200px />
 
- <a align="center">[Contato](https://www.linkedin.com/in/anahaiek/)</a> 
+
+ 
