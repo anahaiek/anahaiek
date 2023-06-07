@@ -1,6 +1,7 @@
-<h1 align="center">Olá Mundo!<img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/751ed0b5-27bf-4474-bac0-3086df413109" width=250px /></h1> 
+<h1 align="center">Olá Mundo!<img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/751ed0b5-27bf-4474-bac0-3086df413109" width=300px /></h1> 
 <h3 align="center"> Eu sou a Ana Haiek </h3>
-<h4 align="center">Curso ciência da computação e minha linguagem de escolha é Javascript.</h4>
+<h4 align="center">Curso Ciência da Computação </h4>
+<h4 align="center">Adoro tecnologia e minha linguagem de escolha é Javascript</h4>
 <h3 align="center">Projetos</h3>
 
  <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> |  <a align="right">[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
@@ -21,9 +22,11 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anahaiek&show_icons=true&locale=en&layout=compact" alt="anahaiek" width=300px />
-<img align="center" src="https://github.com/anahaiek/anahaiek/assets/88678265/e155474d-b6e1-4f84-badf-e10014912407" width=400px />
+<img align="right" src="https://github.com/anahaiek/anahaiek/assets/88678265/e155474d-b6e1-4f84-badf-e10014912407" width=400px />
 </p>
 <b>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anahaiek&label=Profile%20views&color=0e75b6&style=flat" alt="anahaiek" /></p>
+<b>
+<b>
+
 
 
