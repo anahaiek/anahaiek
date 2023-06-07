@@ -1,6 +1,6 @@
 <h1 align="center">Olá Mundo! :computer: <img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/85b6ec08-ef37-4604-adfb-eea109d2bf11" width=250px /></h1> 
 
-★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★
+★゜・。。・゜゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜゜・。。・゜★
 
 
 <p align="center">
