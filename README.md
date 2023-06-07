@@ -3,9 +3,9 @@
 <h4 align="center">Curso ciência da computação e minha linguagem de escolha é Javascript.</h4>
 <h3 align="center">Projetos</h3>
 
-* <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole) *[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
-* <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/) *[Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
-* <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/) *[Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a>
+* <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> *[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)
+* <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/)</a> *[Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)
+* <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/)</a> *[Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)
 
 
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
