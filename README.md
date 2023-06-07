@@ -4,6 +4,11 @@
 <h3 align="center">Projetos</h3>
 
 * <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a>
+* <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/)</a>
+* <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/)</a>
+* <a align="center"> [Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
+* <a align="center"> [Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
+* <a align="center"> [Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a>
 
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
 <b>
