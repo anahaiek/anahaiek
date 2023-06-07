@@ -3,12 +3,12 @@
 <h4 align="center">Curso ciência da computação e minha linguagem de escolha é Javascript.</h4>
 <h3 align="center">Projetos</h3>
 
-* <a align="right"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a>
-* <a align="right"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/)</a>
-* <a align="right"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/)</a>
-* <a align="right"> [Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
-* <a align="right"> [Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
-* <a align="right"> [Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a>
+* <a align="right"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole) [Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
+* <a align="right"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/) [Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
+* <a align="right"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/) [Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a>
+* <a align="right"> </a>
+* <a align="right"> </a>
+* <a align="right"> </a>
 
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
 <b>
