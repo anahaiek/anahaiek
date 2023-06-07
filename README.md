@@ -1,12 +1,22 @@
-<h1 align="center">Olá Mundo! :computer: <img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/85b6ec08-ef37-4604-adfb-eea109d2bf11" width=100px /></h1> 
+<h1 align="center">Olá Mundo! :computer: <img align="left" src="https://github.com/anahaiek/anahaiek/assets/88678265/85b6ec08-ef37-4604-adfb-eea109d2bf11" width=250px /></h1> 
 
-★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ 
+★・。。・゜゜・。。・゜・。。・゜゜・。。・★・。。・゜゜・。。・゜・。。・゜゜・。。・★
 
 
-
+<p align="center">
 <h4 align="center">Eu sou a Ana Haiek e curso Ciência da Computação </h4>
 <h4 align="center">Adoro tecnologia e minha linguagem de escolha é Javascript</h4>
+</p> 
+ &nbsp;
+   
+
+   
+ &nbsp;
+   
+ &nbsp;  
+ <p align="center">
 <h3 align="center">Projetos</h3>
+</p>
 
  <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> |  <a align="right">[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
  | <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/)</a> | <a align="right">[Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
@@ -26,15 +36,15 @@ Em breve
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
 </p>
 
-* <a align="center">[Contato](https://www.linkedin.com/in/anahaiek/)</a> 
+* <a align="right">[Contato](https://www.linkedin.com/in/anahaiek/)</a> 
  
  &nbsp;
    
  &nbsp;
    
  
- <p>
-<img align="right" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=250px />
+ <p align ="center">
+<img align="center" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=400px  />
  </p>
 
  
