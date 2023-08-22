@@ -5,7 +5,7 @@
 
 <p align="center">
 <h4 align="center">Eu sou a Ana Haiek e curso Ciência da Computação </h4>
-<h4 align="center">Adoro tecnologia e minha linguagem de escolha é Javascript</h4>
+<h4 align="center">Adoro tecnologia e Inovação</h4>
 </p> 
  &nbsp;
    
