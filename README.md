@@ -24,7 +24,7 @@
  |  <a align="right">[Jogo Pacman](https://anahaiek.github.io/pacman/)</a> |  <a align="right">[Lâmpada](https://anahaiek.github.io/lampada/)</a> 
 
 
-<h3 align="center">Portifólio</h3>
+
 <a align="right">[Lâmpada](https://anahaiek.github.io/portifolio/)</a> 
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
 <b>
