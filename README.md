@@ -25,7 +25,7 @@
 
 <h3 align="center">Portifólio</h3>
 
-                                                            <a align="center">[Acesse aqui meu portifólio](https://anahaiek.github.io/portifolio/)</a> 
+<a align="center">[Acesse aqui meu portifólio](https://anahaiek.github.io/portifolio/)</a> 
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
 <b>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
