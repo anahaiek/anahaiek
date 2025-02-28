@@ -39,7 +39,7 @@
 
  &nbsp;
  
-<h3 align= "center"><a href="https://github.com/anahaiek/geradorsenhaapp">Gerador de senhas app]</a> | <a href="https://github.com/anahaiek/appscrolllistgithualign">App lista de APIs Github</a></h3>
+<h3 align= "center"><a href="https://github.com/anahaiek/geradorsenhaapp">Gerador de senhas app</a> | <a href="https://github.com/anahaiek/appscrolllistgithualign">App lista de APIs Github</a></h3>
 
 </p>
 
