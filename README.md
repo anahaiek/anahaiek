@@ -17,15 +17,17 @@
 
 </p>
 <h3 align="center">Portifólio</h3>
-
+ &nbsp;
  &nbsp;
  
  <h2 align="center"><strong><a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu portifólio!</a><strong></h2>
   
  &nbsp;
+ &nbsp;
   
 <h3 align="center">Projetos</h3>
   
+ &nbsp;
  &nbsp;
  
   <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> |  <a align="right">[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
