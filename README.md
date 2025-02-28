@@ -17,7 +17,7 @@
 </p>
 <h3 align="center">Portifólio</h3>
 
- <center> <a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu portifólio!</a> </center>
+ <h3 align="center"><strong><a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu portifólio!</a><strong></h3>
 
 <h3 align="center">Projetos</h3>
 
@@ -32,7 +32,7 @@
 
 </p>
 
-* <h3 align="center"><strong><a href=https://www.linkedin.com/in/anahaiek/>Contato</a><strong></h3>
+ <h3 align="center"><strong><a href=https://www.linkedin.com/in/anahaiek/>Contato</a><strong></h3>
  
  &nbsp;
    
