@@ -17,7 +17,7 @@
 </p>
 <h3 align="center">Portifólio</h3>
 
- <h3 align="center"><strong><a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu portifólio!</a><strong></h3>
+ <h1 align="center"><strong><a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu portifólio!</a><strong></h1>
 
 <h3 align="center">Projetos</h3>
 
@@ -28,13 +28,14 @@
 
 <h3 align="center">Aplicativos</h3>
 
- <a align="center">[Gerador de senhas app](https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center">[App lista de APIs Github](https://github.com/anahaiek/appscrolllistgithub)</a> 
+<a align="center">[Gerador de senhas app](https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center">[App lista de APIs Github](https://github.com/anahaiek/appscrolllistgithub)</a> 
 
 </p>
 
  &nbsp;
+ &nbsp;
  
- <h3 align="center"><strong><a href=https://www.linkedin.com/in/anahaiek/>Contato!</a><strong></h3>
+ <h2 align="center"><strong><a href=https://www.linkedin.com/in/anahaiek/>Contato!</a><strong></h2>
  
  &nbsp;
    
