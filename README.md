@@ -35,8 +35,11 @@
  | <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/)</a>  |  <a align="right">[Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a> 
  |  <a align="right">[Jogo Pacman](https://anahaiek.github.io/pacman/)</a> |  <a align="right">[Lâmpada](https://anahaiek.github.io/lampada/)</a> 
 
+ &nbsp;
+ &nbsp;
 <h3 align="center">Aplicativos</h3>
-
+ &nbsp;
+ 
 <a align="center">[Gerador de senhas app](https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center">[App lista de APIs Github](https://github.com/anahaiek/appscrolllistgithub)</a> 
 
 </p>
