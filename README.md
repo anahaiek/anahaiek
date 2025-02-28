@@ -9,8 +9,6 @@
 </p> 
  &nbsp;
    
-
-   
  &nbsp;
    
  &nbsp;  
@@ -29,11 +27,14 @@
  |  <a align="right">[Jogo Pacman](https://anahaiek.github.io/pacman/)</a> |  <a align="right">[Lâmpada](https://anahaiek.github.io/lampada/)</a> 
 
 <h3 align="center">Aplicativos</h3>
- <a align="center"> [Gerador de senhas app] (https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center"> [App lista de APIs Github] (https://github.com/anahaiek/appscrolllistgithub)</a> 
+
+ <a align="center">[Gerador de senhas app](https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center">[App lista de APIs Github](https://github.com/anahaiek/appscrolllistgithub)</a> 
 
 
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
+
 <b>
+ 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
