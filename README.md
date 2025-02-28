@@ -19,17 +19,17 @@
 </p>
 <h3 align="center">Portifólio</h3>
 
-* <a align="center">[Acesse aqui meu portifólio](https://anahaiek.github.io/portifolio/)</a>
+ <a align="center">[Acesse aqui meu portifólio] (https://anahaiek.github.io/portifolio/) </a>
 
 <h3 align="center">Projetos</h3>
 
-*  <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> |  <a align="right">[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
+  <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> |  <a align="right">[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
  | <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/)</a> | <a align="right">[Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
  | <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/)</a>  |  <a align="right">[Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a> 
  |  <a align="right">[Jogo Pacman](https://anahaiek.github.io/pacman/)</a> |  <a align="right">[Lâmpada](https://anahaiek.github.io/lampada/)</a> 
 
 <h3 align="center">Aplicativos</h3>
-* <a align="center"> [Gerador de senhas app](https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center"> [App lista de APIs Github](https://github.com/anahaiek/appscrolllistgithub)</a> 
+ <a align="center"> [Gerador de senhas app] (https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center"> [App lista de APIs Github] (https://github.com/anahaiek/appscrolllistgithub)</a> 
 
 
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
