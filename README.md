@@ -16,11 +16,8 @@
  <p align="center">
 
 </p>
-<h3 align="center">Portifólio</h3>
 
-
- 
- <h1 align="center"><strong><a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu portifólio!</a><strong></h1>
+ <h1 align="center"><strong><a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu Portifólio!</a><strong></h1>
   
  &nbsp;
  &nbsp;
