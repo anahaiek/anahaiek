@@ -32,13 +32,14 @@
 
 </p>
 
- <h3 align="center"><strong><a href=https://www.linkedin.com/in/anahaiek/>Contato</a><strong></h3>
+ &nbsp;
+ 
+ <h3 align="center"><strong><a href=https://www.linkedin.com/in/anahaiek/>Contato!</a><strong></h3>
  
  &nbsp;
    
  &nbsp;
    
- 
  <p align ="center">
 <img align="center" src="https://github.com/anahaiek/anahaiek/assets/88678265/bfa50ce8-9bb2-4761-91fe-90be97790cd6" width=400px  />
  </p>
