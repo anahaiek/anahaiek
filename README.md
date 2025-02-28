@@ -16,7 +16,7 @@
 
 </p>
 <h3 align="center">Portifólio</h3>
- <a style="align:right">[Acesse aqui meu portifólio](https://anahaiek.github.io/portifolio/)</a>
+ <a style="text-align=center">[Acesse aqui meu portifólio](https://anahaiek.github.io/portifolio/)</a>
 
 <h3 align="center">Projetos</h3>
 
