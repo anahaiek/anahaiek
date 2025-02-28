@@ -17,15 +17,19 @@
  <p align="center">
 <h3 align="center">Projetos</h3>
 </p>
+<h3 align="center">Portifólio</h3>
 
- <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> |  <a align="right">[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
+* <a align="center">[Acesse aqui meu portifólio](https://anahaiek.github.io/portifolio/)</a>
+
+*  <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> |  <a align="right">[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
  | <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/)</a> | <a align="right">[Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
  | <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/)</a>  |  <a align="right">[Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a> 
  |  <a align="right">[Jogo Pacman](https://anahaiek.github.io/pacman/)</a> |  <a align="right">[Lâmpada](https://anahaiek.github.io/lampada/)</a> 
 
-<h3 align="center">Portifólio</h3>
+<h3 align="center">Aplicativos</h3>
+ <a align="center"> [Gerador de senhas app](https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center"> [App lista de APIs Github](https://github.com/anahaiek/appscrolllistgithub)</a> 
 
-* <a align="center">[Acesse aqui meu portifólio](https://anahaiek.github.io/portifolio/)</a> 
+
 <h3 align="center">Linguagens e ferramentas que domino:</h3>
 <b>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
@@ -35,6 +39,8 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a>
+
+
 
 </p>
 
