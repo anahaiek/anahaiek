@@ -32,7 +32,7 @@
 
 </p>
 
-* <h3><strong><center> <a align="right">[Contato](https://www.linkedin.com/in/anahaiek/)</a><center><strong></h3>
+* <h3 align="center"><strong> <a>[Contato](https://www.linkedin.com/in/anahaiek/)</a><strong></h3>
  
  &nbsp;
    
