@@ -30,12 +30,9 @@
 
  <a align="center">[Gerador de senhas app](https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center">[App lista de APIs Github](https://github.com/anahaiek/appscrolllistgithub)</a> 
 
-
-<h3 align="center">Linguagens e ferramentas que domino:</h3>
-
 </p>
 
-* <a align="right">[Contato](https://www.linkedin.com/in/anahaiek/)</a> 
+*<center> <a align="right">[Contato](https://www.linkedin.com/in/anahaiek/)</a> <center>
  
  &nbsp;
    
