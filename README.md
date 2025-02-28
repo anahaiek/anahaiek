@@ -20,7 +20,7 @@
  &nbsp;
  &nbsp;
  
- <h align="center"><strong><a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu portifólio!</a><strong></h>
+ <h1 align="center"><strong><a href="https://anahaiek.github.io/portifolio/">Acesse aqui meu portifólio!</a><strong></h1>
   
  &nbsp;
  &nbsp;
