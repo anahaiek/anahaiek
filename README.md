@@ -46,7 +46,7 @@
  &nbsp;
  &nbsp;
  
- <h2 align="center"><strong><a href=https://www.linkedin.com/in/anahaiek/>Contato!</a><strong></h2>
+ <h1 align="center"><strong><a href=https://www.linkedin.com/in/anahaiek/>Contato!</a><strong></h1>
  
  &nbsp;
    
