@@ -27,10 +27,10 @@
  &nbsp;
  &nbsp;
  
-  <a align="center"> [Jogo Acerte a Marmota](https://anahaiek.github.io/whackaMole)</a> |  <a align="right">[Oráculo de Ana](https://anahaiek.github.io/oraculodeana/)</a>
- | <a align="center"> [Ladyflix Streaming](https://anahaiek.github.io/clone-da-netflix-o-ladyflix/)</a> | <a align="right">[Tela Inicial do Instagram](https://anahaiek.github.io/tela-inicial-instagram/)</a>
- | <a align="center"> [Meme Generator(English)](https://anahaiek.github.io/MemeGenerator/)</a>  |  <a align="right">[Site com Bootstrap](https://anahaiek.github.io/pagina-web-com-bootstrap/)</a> 
- |  <a align="right">[Jogo Pacman](https://anahaiek.github.io/pacman/)</a> |  <a align="right">[Lâmpada](https://anahaiek.github.io/lampada/)</a> 
+ <h2 align="center"><a https://anahaiek.github.io/whackaMole>Jogo Acerte a Marmota</a> |  <a https://anahaiek.github.io/oraculodeana/>Oráculo de Ana</a>
+ | <a https://anahaiek.github.io/clone-da-netflix-o-ladyflix/>Ladyflix Streaming</a> | <a https://anahaiek.github.io/tela-inicial-instagram/>Tela Inicial do Instagram</a>
+ | <a https://anahaiek.github.io/MemeGenerator/>Meme Generator(English)</a>  |  <a https://anahaiek.github.io/pagina-web-com-bootstrap/>Site com Bootstrap</a> 
+ |  <a https://anahaiek.github.io/pacman/>Jogo Pacman</a> |  <a https://anahaiek.github.io/lampada/>Lâmpada</a></h2>
 
  &nbsp;
  &nbsp;
