@@ -22,7 +22,7 @@
  &nbsp;
  &nbsp;
   
-<h3 align="center">Projetos</h3>
+<h2 align="center">Projetos</h2>
   
  &nbsp;
  &nbsp;
@@ -34,10 +34,12 @@
 
  &nbsp;
  &nbsp;
-<h3 align="center">Aplicativos</h3>
+ 
+<h2 align="center">Aplicativos</h2>
+
  &nbsp;
  
-<a align="center">[Gerador de senhas app](https://github.com/anahaiek/geradorsenhaapp)</a> | <a align="center">[App lista de APIs Github](https://github.com/anahaiek/appscrolllistgithub)</a> 
+<h3 align= "center"><a href="https://github.com/anahaiek/geradorsenhaapp">Gerador de senhas app]</a> | <a href="https://github.com/anahaiek/appscrolllistgithualign">App lista de APIs Github</a></h3>
 
 </p>
 
